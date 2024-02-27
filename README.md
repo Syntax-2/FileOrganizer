@@ -26,7 +26,8 @@
 
   <h2>Before organizer:</h2>
   <img src='before.png'/>
-  <h2>Before organizer:</h2>
+  <h2>After organizer:</h2>
+  <img src='after.png'/>
 
   
   <h2>Looking to contribute?</h2>
